@@ -7,7 +7,7 @@ function permuter() {
     let input2 = document.getElementById('input2').value;
     console.log("Vous avez saisi " + input2);
 
-    input1.value = input2.value;
+
 }
 
 button.addEventListener("click", permuter);
