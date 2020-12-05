@@ -8,6 +8,7 @@ function permuter() {
     console.log("Vous avez saisi " + input2);
 
 
+
 }
 
 button.addEventListener("click", permuter);
